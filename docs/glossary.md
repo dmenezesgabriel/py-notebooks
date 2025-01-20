@@ -1,0 +1,11 @@
+- **Tokenization**:
+- **Stop Words Removal**:
+- **Topic Modeling**:
+- **Sentiment Analysis**:
+- **Named Entity Recognition**:
+- **Stemming & Lemmatization**:
+- **Text Summarization**:
+- **Keyword Extraction**:
+- **Term Frequency**:
+- **Machine Learning Translation**:
+- **Word Embedding**: Transform words in a vector to search them by similarity.
