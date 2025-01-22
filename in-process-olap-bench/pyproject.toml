@@ -1,0 +1,11 @@
+[project]
+name = "olap-chickhouse"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chdb>=3.0.0",
+    "duckdb>=1.1.3",
+    "ipykernel>=6.29.5",
+]
