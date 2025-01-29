@@ -175,3 +175,4 @@ cython_debug/
 
 # Google Service Account
 *gen-lang-client-*.json
+chroma_db/
